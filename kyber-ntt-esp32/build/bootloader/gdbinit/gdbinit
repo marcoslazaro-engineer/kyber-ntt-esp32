@@ -1,0 +1,2 @@
+source /home/marcos/esp/kyber-ntt/build/bootloader/gdbinit/symbols
+source /home/marcos/esp/kyber-ntt/build/bootloader/gdbinit/connect

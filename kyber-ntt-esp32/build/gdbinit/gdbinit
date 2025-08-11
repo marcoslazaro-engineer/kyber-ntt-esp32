@@ -1,0 +1,2 @@
+source /home/marcos/esp/kyber-ntt/build/gdbinit/symbols
+source /home/marcos/esp/kyber-ntt/build/gdbinit/connect
