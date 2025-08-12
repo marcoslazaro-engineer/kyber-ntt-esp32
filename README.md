@@ -40,7 +40,6 @@ Make sure you are in the esp/kyber-ntt-esp32 directory and that your ESP-IDF env
     
 replace /dev/ttyACM0 with the actual port of your ESP32-S3 board.
 # License 
-License
 
 No license is granted.
 
